@@ -9,11 +9,7 @@ last_name: Di Cara
 email: nina.dicara@bristol.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website and projects
-footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-
+footer_text: 
 icon: 🌻 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: website # the subpath of your site, e.g. /blog/
@@ -31,7 +27,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -76,7 +72,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: blog  # your blog must have a name for it to show up in the nav bar
-blog_description: thoughts, tutorials, and announcements
+blog_description: thoughts and tutorials
 permalink: /blog/:year/:title/
 
 # Pagination
