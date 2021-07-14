@@ -5,5 +5,5 @@ description: Django based study management platform with SMS surveys
 img: /assets/img/moodmusic.png
 redirect: https://github.com/DynamicGenetics/Mood-Music
 importance: 5
-category: code
+category: software
 ---

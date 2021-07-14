@@ -2,7 +2,7 @@
 layout: page
 title: Ethical Research Interviews for Difficult Topics
 description: A peer-training workshop funded by the Bristol Doctoral College
-img: /assests/img/ethical_interviews_thumbnail.png
+img: /assets/img/ethical_interviews_thumbnail.png
 importance: 4
 category: projects
 ---
