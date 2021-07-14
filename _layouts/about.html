@@ -11,6 +11,8 @@ layout: default
      <p class="desc">{{ page.description }}</p>
   </header>
 
+  <br>
+
   <article>
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
@@ -29,15 +31,21 @@ layout: default
       {{ content }}
     </div>
 
+    <hr>
+
     {% if page.news %}
       {% include news.html %}
     {% endif %}
 
+
+
     {% if page.selected_papers %}
+      <hr>
       {% include selected_papers.html %}
     {% endif %}
 
     {% if page.social %}
+    <hr>
     <div class="social">
       <div class="contact-icons">
         {% include social.html %}

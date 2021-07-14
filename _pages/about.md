@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href=https://research-information.bris.ac.uk/en/persons/nina-di-cara' target=blank>University of Bristol</a>
+description: <a href=https://research-information.bris.ac.uk/en/persons/nina-di-cara target=blank>University of Bristol</a>
 
 profile:
   align: right
