@@ -14,10 +14,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student at the University of Bristol, part of the [Dynamic Genetics lab](https://dynamicgenetics.org/) in the [MRC Integrative Epidemiology Unit](http://www.bristol.ac.uk/integrative-epidemiology/), supervised by Professor Claire Haworth, Dr Oliver Davis and Professor Luke Sloan. My work is funded by a Data Science and AI PhD studentship from the [GW4 MRC BioMed Doctoral Training Partnership](https://www.gw4biomed.ac.uk/). Before I started my PhD I was a safeguarding social worker, working with children and families. 
+I'm supervised by [Professor Claire Haworth](https://research-information.bris.ac.uk/en/persons/claire-m-a-haworth), [Dr Oliver Davis](https://research-information.bris.ac.uk/en/persons/oliver-s-davis) and [Professor Luke Sloan](https://www.cardiff.ac.uk/people/view/38080-sloan-luke), based at the [MRC Integrative Epidemiology Unit](http://www.bristol.ac.uk/integrative-epidemiology/). My work is funded by a Data Science and AI PhD studentship from the [GW4 MRC BioMed DTP](https://www.gw4biomed.ac.uk/). Before I started my PhD I was a safeguarding social worker, working with children and families. 
 
-My broad research interests are in mental health, data science, data ethics and participatory approaches to quantitative data analysis. 
+My broad research interests are in `mental health`, `data science`, `data ethics` and `citizen science`. 
 
-My PhD focusses on the use of digital footprints for mental health prediction. I've been exploring peoples'  perspectives of these technologies, using digital footprint data to understand the temporal nature of mental health and exploring new types of digital footprints that might be useful. 
-
-Alongside my PhD I co-organise Data Ethics Club, which hosts conversations about data ethics every fortnight (join us!).
+Alongside my PhD I co-organise [Data Ethics Club](https://very-good-science.github.io/data-ethics-club/index.html), which hosts fortnightly conversations about data ethics ([join us!](https://very-good-science.github.io/data-ethics-club/contents/get-involved.html)).
