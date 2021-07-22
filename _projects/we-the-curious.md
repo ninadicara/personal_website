@@ -3,7 +3,7 @@ layout: page
 title: can machines understand emotion?
 description: An interactive public exhibit about machine learning for mental health
 img: /assets/img/we-the-curious-2.jpeg
-importance: 3
+importance: 5
 category: projects
 ---
 
